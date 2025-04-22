@@ -12,7 +12,7 @@ Este é um projeto simples de Pedra, Papel ou Tesoura desenvolvido usando HTML, 
 
 1. Clone o repositório:
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone [https://github.com/caiquetmz/Jokenp-]
 
 2. Abra o arquivo `index.html` em seu navegador.
 
